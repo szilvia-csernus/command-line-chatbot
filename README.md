@@ -2,6 +2,18 @@
 
 Command line chatbot, written in Python, using the OpenAI ChatGPT 3.5-turbo LLM.
 
+* Personality: Childish
+![Chatbot-childish](chatbot-childish.png)
+
+* Personality: Rude
+![Chatbot-rude](chatbot-rude.png)
+
+* Personality: Nice, Helpful (Default)
+![Chatbot-helpful](chatbot-helpful.png)
+
+
+The maximum token number is set to 50, which can be changed in the code.
+
 ---
 
 ## How to run this project?
@@ -40,7 +52,8 @@ Command line chatbot, written in Python, using the OpenAI ChatGPT 3.5-turbo LLM.
 
 6. Run the project:
 
-    `python chatbot.py`
+    - with default personality (nice, helpful): `python chatbot.py`
+    - with the personality flag: `python chatbot.py --personality "childish"`
 
 
 ## Credit
