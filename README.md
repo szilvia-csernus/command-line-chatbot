@@ -59,3 +59,5 @@ The maximum token number is set to 50, which can be changed in the code.
 ## Credit
 
 This project was adopted from Colt Steele's Walkthrough project on Udemy: [Mastering OpenAI Python APIs](https://www.udemy.com/course/mastering-openai/?couponCode=24T3MT53024).
+
+Changes made: API calls have been updated as per the latest documentation.
